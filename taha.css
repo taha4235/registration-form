@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+
+body {
+    background-color: royalblue;
+    color: white;
+}
+
+.container {
+    width: 400px;
+    height: 400px;
+    background-color: #fff;
+    border: 1px solid white;
+    border-radius: 1px;
+    box-shadow: 10px 10px 10px 10px black;
+    justify-content: center;
+    margin: 10rem;
+    display: flex;
+    outline: none;
+}
+
+.taha3 .taha5 {
+    color: black;
+    display: flex;
+    font-size: 2rem;
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
+.taha6 {
+    outline: none;
+    width: 200px;
+    text-align: center;
+    color: black;
+    border: 1px solid white;
+}
+
+.container img {
+    width: 200px;
+    height: 400px;
+}
+
+.taha7 {
+    width: 50px;
+    height: 30px;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 50%;
+}
+
+.taha7:hover {
+    background-color: yellow;
+    color: black;
+}
